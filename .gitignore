@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+*.egg-info/
+.venv/
+__pycache__/
+*.py[cod]
+*.py[cod]
